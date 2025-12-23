@@ -17,7 +17,7 @@ The project demonstrates how real-world search engines begin by crawling webpage
 ---
 
 ## Technologies Used
-- **C++ (C++17)**
+- **C++**
 - **libcurl** – for downloading webpages
 - **SQLite3** – for storing link relationships
 - **CMake** – for build automation
