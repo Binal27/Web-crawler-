@@ -17,12 +17,20 @@ The project demonstrates how real-world search engines begin by crawling webpage
 ---
 
 ## Technologies Used
-- **C++**
+- **C++**- Programming language used
 - **libcurl** – for downloading webpages
 - **SQLite3** – for storing link relationships
 - **CMake** – for build automation
 - **Linux / WSL**
 
 ---
+## Output Screenshots
+### Extracted links from webcrawling
+![Extracted links from GeeksforGeeks website]()
 
-## 📂 Project Structure
+### Crawling GeeksforGeeks
+![Official App of GeeksforGeeks]()
+
+### PageRank Results
+![PageRank Output](screenshots/pagerank.png)
+
