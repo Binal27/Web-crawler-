@@ -1,13 +1,13 @@
 # Web Crawler with PageRank (C++)
 
-## 📌 Project Overview
+## Project Overview
 This project is a **basic web crawler** implemented in **C++** that downloads a webpage, extracts hyperlinks, stores link relationships in a database, and computes **PageRank scores** for the discovered pages.
 
 The project demonstrates how real-world search engines begin by crawling webpages and ranking them based on link structure.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - Download HTML content from a given URL
 - Extract hyperlinks from the webpage
 - Store page-to-page relationships (edges) in a database
@@ -16,7 +16,7 @@ The project demonstrates how real-world search engines begin by crawling webpage
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 - **C++ (C++17)**
 - **libcurl** – for downloading webpages
 - **SQLite3** – for storing link relationships
