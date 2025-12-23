@@ -29,7 +29,7 @@ The project demonstrates how real-world search engines begin by crawling webpage
 ![Extracted links from GeeksforGeeks website](screenshots/Screenshot 2025-12-23 124951.png)
 
 ### Crawling GeeksforGeeks
-![Official App of GeeksforGeeks]()
+![Official App of GeeksforGeeks]_(screenshots/Screenshot 2025-12-23 125824.png)_
 
 ### PageRank Results
 ![PageRank Output](screenshots/pagerank.png)
